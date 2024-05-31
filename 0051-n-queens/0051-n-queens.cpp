@@ -1,52 +1,68 @@
 class Solution {
 public:
     
-bool isSafe(vector<string>& temp, int row,int col,int n){
-   
-    
-    for(int c=col;c>=0;c--){
-        if(temp[row][c]=='Q')return 0;
-    }
-    
-    int x=row,y=col;
-    while(x>=0 and y>=0){
-        if(temp[x][y]=='Q')return 0;
-        x--;y--;
-    }
-    
-    x=row,y=col;
-    
-    while(x<n and y>=0){
-        if(temp[x][y]=='Q')return 0;
-        x++;
-        y--;
-    }
-    return 1;
-}
-void helper(int row,int col,int n,vector<string>& temp, vector<vector<string>>& ans){
+    bool safe(int row,int col,vector<string>& board, int n){
         
+        int x=row, y=col;
+        
+        //left side        
+        while(col>=0){
+            if(board[row][col]=='Q')return 0;
+            col--;
+        }
+        
+        //upper diagonal
+        
+   
+        col=y;
+        while(row>=0 and col>=0){
+            if(board[row][col]=='Q')return 0;
+            row--;
+            col--;
+        }
+        
+        //lower diagonal
+        
+        row=x;
+        col=y;
+        while(row<n and col>=0){
+            if(board[row][col]=='Q')return 0;
+            row++;
+            col--;
+        }
+        
+        return 1;
+    }
+    
+    void place(int col,int n,vector<string>& board, vector<vector<string>>& ans){
+        
+        //base case
         if(col==n){
-            ans.push_back(temp);
+            ans.push_back(board);
             return;
         }
-    
-    for(int r=row;r<n;r++){
-        if(isSafe(temp,r,col,n)){
-            temp[r][col]='Q';
-            helper(row,col+1,n,temp,ans);
-            temp[r][col]='.';
-        }
-    }
         
+        
+        for(int row=0;row<n;row++){
+            
+            if(safe(row,col,board,n)){
+                board[row][col]='Q';
+                place(col+1,n,board,ans);
+                board[row][col]='.';
+            }
+        }
+        
+        return;
         
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>>ans;
-        vector<string>temp(n);
+        vector<string>board(n);
         for(int i=0;i<n;i++){
-            temp[i]=string(n,'.');
+            board[i]=string(n,'.');
         }
-        helper(0,0,n,temp,ans);
+        vector<vector<string>>ans;
+        
+        place(0,n,board,ans);
         return ans;
     }
 };
