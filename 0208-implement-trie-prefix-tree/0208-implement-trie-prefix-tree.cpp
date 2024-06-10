@@ -1,83 +1,69 @@
-class Node{
+struct Node{
     
+    Node *links[26];
+    bool flag=0;
     
-   Node* links[26];
-   bool flag=false;
-    
-    public:
-    
-    
-    bool containsKey(char t){
-        return links[t-'a']!=NULL;
+    bool containsKey(char ch){
+        return links[ch-'a']!=NULL;
     }
     
-    void put(char t, Node* nxt){
-        links[t-'a']=nxt;
+    void put(char ch, Node* n){
+        links[ch-'a']=n;
     }
     
-    Node* get(char t){
-        return links[t-'a'];
+    Node* get(char ch){
+        return links[ch-'a'];
     }
     
     void setEnd(){
-        flag=1;}
-    
-    bool getEnd(){
-        return flag;
+        flag=1;
     }
     
-    
-    
-    
+    bool checkEnd(){
+        return flag;
+    }
 };
 class Trie {
+private: Node* root;
 public:
-    Node* root;
     Trie() {
-        root=new Node();
+        root= new Node();
     }
     
     void insert(string word) {
         
-        Node* dummy=root;
+        Node* node=root;
         
-        for(int i=0; i<word.size();i++){
-            if(!dummy->containsKey(word[i])){
-                dummy->put(word[i],new Node());
-            }
+        for(int i=0;i<word.size();i++){
+            if(!node->containsKey(word[i]))
+                node->put(word[i],new Node());
             
-            dummy=dummy->get(word[i]);
+            node=node->get(word[i]);
         }
         
-        dummy->setEnd();}
+        node->setEnd();
+    }
     
     bool search(string word) {
         
-        Node* dummy=root;
+        Node* node=root;
         
         for(int i=0;i<word.size();i++){
-            
-            if(!dummy->containsKey(word[i]))return 0;
-            
-            else{
-                dummy=dummy->get(word[i]);
-            }
+            if(!node->containsKey(word[i]))return 0;
+            node=node->get(word[i]);
         }
         
-        return dummy->getEnd();
+        return node->checkEnd();
     }
     
-    bool startsWith(string prefix) {
+    bool startsWith(string word) {
         
-        Node* dummy=root;
-        
-        for(int i=0;i<prefix.size();i++){
-            if(!dummy->containsKey(prefix[i]))return 0;
-            else dummy=dummy->get(prefix[i]);
+        Node*  node=root;
+        for(int i=0;i<word.size();i++){
+            if(!node->containsKey(word[i]))return 0;
+            node=node->get(word[i]);
         }
-        
-        return 1;
-        
+        return 1;        
     }
 };
 
