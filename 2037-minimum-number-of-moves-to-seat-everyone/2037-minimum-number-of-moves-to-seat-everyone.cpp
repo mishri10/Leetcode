@@ -1,15 +1,30 @@
 class Solution {
 public:
     int minMovesToSeat(vector<int>& seats, vector<int>& students) {
-        sort(seats.begin(),seats.end());
-        sort(students.begin(),students.end());
+        vector<int>freqSeats(101,0);
+        vector<int>freqStudents(101,0);
         
+        for(int i=0;i<seats.size();i++){
+            freqSeats[seats[i]]++;
+            freqStudents[students[i]]++;
+        }
+        
+        int i=0,j=0;
         int ans=0;
-        int n=seats.size();
         
-        for(int i=0;i<n;i++){
-            ans+=abs(seats[i]-students[i]);}
-    
-    
-    return ans;}
+        while(i<101 and j<101){
+            
+            while(i<101 and freqSeats[i]==0)i++;
+            while(j<101 and freqStudents[j]==0)j++;
+            
+            if(i<101 and j<101){
+            ans+=abs(i-j);
+
+            freqSeats[i]--;
+            freqStudents[j]--;}
+            
+            
+        }
+        return ans;
+    }
 };
