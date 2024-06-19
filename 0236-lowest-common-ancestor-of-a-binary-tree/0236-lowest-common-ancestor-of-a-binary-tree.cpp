@@ -9,19 +9,19 @@
  */
 class Solution {
 public:
-    TreeNode* findLCA(TreeNode* node, TreeNode* p, TreeNode* q){
+    TreeNode* helper(TreeNode* node, TreeNode* p, TreeNode* q){
         if(!node)return NULL;
         
         if(node==p or node==q)return node;
         
-        TreeNode* l=findLCA(node->left,p,q);
-        TreeNode* r=findLCA(node->right,p,q);
+        TreeNode* l= helper(node->left,p,q);
+        TreeNode* r= helper(node->right,p,q);
         
+        if(l and r)return node;
         if(!l)return r;
-        if(!r)return l;
-        return node;
+        return l;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return findLCA(root,p,q);
+        return helper(root,p,q);
     }
 };
