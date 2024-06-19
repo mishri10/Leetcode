@@ -12,13 +12,12 @@
 class Solution {
 public:
     int findMax(TreeNode* node, int& maxi){
-        
         if(!node)return 0;
         
-        int l= max(0,findMax(node->left,maxi));
-        int r= max(0,findMax(node->right,maxi));
+        int l=max(0,findMax(node->left,maxi));
+        int r=max(0,findMax(node->right,maxi));
         
-        maxi=max(maxi,node->val+l+r);
+        maxi=max(maxi, l+r+node->val);
         
         return node->val+max(l,r);
     }
