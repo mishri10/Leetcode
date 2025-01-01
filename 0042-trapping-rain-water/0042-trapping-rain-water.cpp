@@ -1,25 +1,35 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
+        int leftMax=0;
+        int rightMax=0;
         int n=height.size();
-        vector<int>ngeRight(n);
-        vector<int>ngeLeft(n);
+        int right=n-1;
+        int left=0;
         int ans=0;
-        ngeLeft[0]=height[0];
-        ngeRight[n-1]=height[n-1];
 
-        for(int i=1; i<n; i++)
-            ngeLeft[i]=max(height[i],ngeLeft[i-1]);
-        
-        for(int i=n-2; i>=0; i--)
-            ngeRight[i]=max(height[i],ngeRight[i+1]);
-        
+        while(left<=right){
+            if(leftMax<rightMax){
+                if(leftMax>=height[left])
+                    ans+=leftMax-height[left];
+                
+                else
+                    leftMax=height[left];
+                
+                left++;
+            }
 
-        for(int i=0; i<n; i++){
-            int possibleHeight= min(ngeRight[i],ngeLeft[i]);
-            ans+= (possibleHeight-height[i]);
+            else{
+                if(rightMax>=height[right])
+                    ans+=rightMax-height[right];
+
+                else
+                    rightMax=height[right];
+
+                right--;
+
+            }
         }
-
         return ans;
     }
 };
