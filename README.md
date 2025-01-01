@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/mishri10/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -43,11 +44,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
