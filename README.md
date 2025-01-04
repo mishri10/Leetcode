@@ -25,11 +25,13 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mishri10/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mishri10/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mishri10/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/mishri10/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mishri10/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
@@ -45,6 +47,7 @@
 | ------- |
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
