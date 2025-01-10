@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/mishri10/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mishri10/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/mishri10/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mishri10/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mishri10/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -79,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
 |  |
