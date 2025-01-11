@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mishri10/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mishri10/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mishri10/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -115,6 +117,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
