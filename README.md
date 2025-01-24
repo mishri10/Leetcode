@@ -142,6 +142,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mishri10/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -159,16 +160,19 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mishri10/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Brainteaser
 |  |
 | ------- |
