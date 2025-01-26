@@ -19,6 +19,7 @@
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
+| [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
+| [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/mishri10/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mishri10/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mishri10/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -194,5 +196,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mishri10/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Math
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
