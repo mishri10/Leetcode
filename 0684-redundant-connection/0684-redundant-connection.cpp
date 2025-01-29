@@ -23,8 +23,6 @@ class DisjointSet{
     void unionBySize(int u, int v){
         int ulpU=findUPar(u);
         int ulpV=findUPar(v);
-        if(ulpU==ulpV)
-            return;
 
         if(size[ulpU]>=size[ulpV]){
             size[ulpU]+=size[ulpV];
