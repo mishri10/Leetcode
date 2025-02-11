@@ -9,19 +9,37 @@
  */
 class Solution {
 public:
-    TreeNode* helper(TreeNode* node, TreeNode* p, TreeNode* q){
-        if(!node)return NULL;
-        
-        if(node==p or node==q)return node;
-        
-        TreeNode* l= helper(node->left,p,q);
-        TreeNode* r= helper(node->right,p,q);
-        
-        if(l and r)return node;
-        if(!l)return r;
-        return l;
+    bool findPath(TreeNode* node, TreeNode* target, vector<TreeNode*>&path){
+        if(node==NULL)
+            return 0;
+
+        path.push_back(node);
+
+        if(node==target)
+            return 1;
+        //
+        bool lh= findPath(node->left,target,path);
+        bool rh= findPath(node->right,target,path);
+
+        if(lh or rh)
+            return 1;
+
+        path.pop_back();
+        return 0;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return helper(root,p,q);
+        vector<TreeNode*>p1,p2;
+        findPath(root,p,p1);
+        findPath(root,q,p2);
+        TreeNode* ans=NULL;
+
+        int m=min(p1.size(),p2.size());
+
+        for(int i=0; i<m; i++){
+            if(p1[i]==p2[i])
+                ans= p1[i];
+        }
+
+        return ans;
     }
 };
