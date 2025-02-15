@@ -92,6 +92,7 @@
 | [0051-n-queens](https://github.com/mishri10/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mishri10/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mishri10/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/mishri10/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mishri10/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
