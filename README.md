@@ -47,6 +47,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/mishri10/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/mishri10/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mishri10/Leetcode/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mishri10/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/mishri10/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/mishri10/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mishri10/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mishri10/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mishri10/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mishri10/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mishri10/Leetcode/tree/master/3447-clear-digits) |
