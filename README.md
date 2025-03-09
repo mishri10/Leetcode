@@ -68,6 +68,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mishri10/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/mishri10/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mishri10/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/mishri10/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## String
 |  |
 | ------- |
@@ -366,4 +367,8 @@
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/mishri10/Leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
