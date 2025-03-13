@@ -69,6 +69,7 @@
 | [3429-special-array-i](https://github.com/mishri10/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mishri10/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/mishri10/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/mishri10/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/mishri10/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/mishri10/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mishri10/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/mishri10/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
+| [3643-zero-array-transformation-ii](https://github.com/mishri10/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
