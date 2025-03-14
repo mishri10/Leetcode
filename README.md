@@ -33,6 +33,7 @@
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/mishri10/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mishri10/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mishri10/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -328,6 +329,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/mishri10/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/mishri10/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
