@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
+| [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/mishri10/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mishri10/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -160,12 +161,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mishri10/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
+| [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
@@ -209,6 +212,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/mishri10/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mishri10/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mishri10/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
