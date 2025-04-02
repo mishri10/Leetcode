@@ -1,17 +1,17 @@
 class Solution {
 public:
     long long maximumTripletValue(vector<int>& nums) {
-        long long ans=0;
-        int n=nums.size();
+       int n=nums.size();
 
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                long long diff= nums[i]-nums[j];
-                for(int k=j+1; k<n; k++){
-                    ans=max(ans,diff*nums[k]);
-                }
-            }
-        }
-        return ans;
+       long long maxElement=LONG_MIN, maxDiff=LONG_MIN;
+       long long ans=0;
+
+       for(int i=0; i<n-1; i++){
+        maxElement=max(maxElement,(long long)nums[i]);
+        maxDiff= max(maxDiff, maxElement-nums[i]);
+        ans= max(maxDiff*nums[i+1],ans);
+       }
+
+       return ans;
     }
 };
