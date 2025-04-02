@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mishri10/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/mishri10/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mishri10/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -162,6 +163,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mishri10/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
