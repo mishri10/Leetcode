@@ -21,6 +21,7 @@
 | [0039-combination-sum](https://github.com/mishri10/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mishri10/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mishri10/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
@@ -273,6 +274,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
@@ -355,6 +357,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mishri10/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mishri10/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
