@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishri10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -27,6 +28,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
