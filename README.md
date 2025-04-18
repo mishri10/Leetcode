@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mishri10/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/mishri10/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -349,6 +350,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mishri10/Leetcode/tree/master/0056-merge-intervals) |
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mishri10/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/mishri10/Leetcode/tree/master/2681-put-marbles-in-bags) |
