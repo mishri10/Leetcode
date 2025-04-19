@@ -74,6 +74,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/mishri10/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/mishri10/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mishri10/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mishri10/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mishri10/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mishri10/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mishri10/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -183,6 +184,7 @@
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mishri10/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mishri10/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -354,6 +356,7 @@
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mishri10/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/mishri10/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mishri10/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mishri10/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/mishri10/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
@@ -383,6 +386,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mishri10/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mishri10/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mishri10/Leetcode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mishri10/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/mishri10/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
