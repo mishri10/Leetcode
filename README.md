@@ -28,6 +28,7 @@
 | [0078-subsets](https://github.com/mishri10/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mishri10/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mishri10/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/mishri10/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mishri10/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mishri10/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mishri10/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mishri10/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mishri10/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/mishri10/Leetcode/tree/master/2681-put-marbles-in-bags) |
