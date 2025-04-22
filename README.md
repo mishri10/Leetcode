@@ -375,6 +375,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mishri10/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mishri10/Leetcode/tree/master/0062-unique-paths) |
 | [0976-minimum-area-rectangle](https://github.com/mishri10/Leetcode/tree/master/0976-minimum-area-rectangle) |
@@ -477,11 +478,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mishri10/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mishri10/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/mishri10/Leetcode/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mishri10/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mishri10/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mishri10/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
