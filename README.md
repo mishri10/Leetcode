@@ -38,6 +38,7 @@
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishri10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -398,6 +399,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mishri10/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mishri10/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mishri10/Leetcode/tree/master/2690-house-robber-iv) |
