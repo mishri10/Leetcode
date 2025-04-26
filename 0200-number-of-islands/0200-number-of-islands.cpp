@@ -1,35 +1,38 @@
 class Solution {
 public:
-    int uRow[4]={-1,0,1,0};
-    int uCol[4]={0,1,0,-1};
-    void dfs(int row,int col,vector<vector<char>>& grid,int n, int m){
+
+    void dfs(int row, int col, vector<vector<char>>& temp, int n, int m){
+       
+        temp[row][col]='0';
         
-        grid[row][col]='2';
-        
-        for(int k=0;k<4;k++){
-            int newRow= row+uRow[k];
-            int newCol= col+uCol[k];
-            
-            if(newRow>=0 and newRow<n and newCol>=0 and newCol<m and grid[newRow][newCol]=='1'){
-                
-                dfs(newRow,newCol,grid,n,m);
-            }
+        int dr[4]={-1,0,1,0};
+        int dc[4]={0,1,0,-1};
+
+        for(int i=0; i<4; i++){
+            int newRow= row+dr[i];
+            int newCol= col+dc[i];
+
+            if(newRow>=0 and newRow<n and newCol>=0 and newCol<m and 
+            temp[newRow][newCol]=='1')
+                dfs(newRow,newCol,temp,n,m);
         }
     }
+
     int numIslands(vector<vector<char>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<int>>vis(n,vector<int>(m,-1));
-        int ans=0;
+        vector<vector<char>>temp(grid.begin(),grid.end());
+        int cnt=0;
         
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]=='1'){
-                    dfs(i,j,grid,n,m);
-                    ans++;
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(temp[i][j]=='1'){
+                    dfs(i,j,temp,n,m);
+                    cnt++;
                 }
             }
         }
-        return ans;
+        return cnt;
     }
 };
