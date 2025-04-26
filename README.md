@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -307,6 +310,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishri10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mishri10/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mishri10/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -358,6 +362,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
