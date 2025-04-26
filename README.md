@@ -41,6 +41,7 @@
 | [0503-next-greater-element-ii](https://github.com/mishri10/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishri10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -278,6 +279,7 @@
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
@@ -296,6 +298,7 @@
 | [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/mishri10/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -315,6 +318,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mishri10/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mishri10/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/mishri10/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mishri10/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -364,6 +368,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/mishri10/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/mishri10/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/mishri10/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
