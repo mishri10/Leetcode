@@ -34,6 +34,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/mishri10/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -301,6 +303,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mishri10/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mishri10/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mishri10/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
@@ -318,6 +321,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mishri10/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishri10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/mishri10/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/mishri10/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -374,6 +378,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mishri10/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mishri10/Leetcode/tree/master/0695-max-area-of-island) |
