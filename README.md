@@ -8,6 +8,7 @@
 | [0062-unique-paths](https://github.com/mishri10/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishri10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -35,6 +36,7 @@
 | [0118-pascals-triangle](https://github.com/mishri10/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mishri10/Leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishri10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/mishri10/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/mishri10/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -210,6 +213,7 @@
 | [0127-word-ladder](https://github.com/mishri10/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/mishri10/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mishri10/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/mishri10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -247,6 +251,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mishri10/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -526,4 +531,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mishri10/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mishri10/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mishri10/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
