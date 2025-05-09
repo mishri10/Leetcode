@@ -1,28 +1,32 @@
 class Solution {
 public:
-    int helper(int ind, int target, vector<int>& coins, vector<vector<int>>& dp){
-        
-        
-        if(ind==0){
-            if(target%coins[0]==0)
-                return target/coins[0];
-            return 1e7;}
-        
-        if(dp[ind][target]!=-1)return dp[ind][target];
-        
-        int pick=1e7;
-        
-        if(target>=coins[ind]){
-            pick=1+helper(ind,target-coins[ind],coins,dp);
+    int helper(int ind, vector<int>& coins, int amount, vector<vector<int>>& dp){
+        if(ind==coins.size()-1){
+            if(amount%coins[ind]==0)
+                return amount/coins[ind];
+            return 100000;
         }
-        int not_pick=helper(ind-1,target,coins,dp);
+
+        if(dp[ind][amount]!=-1)
+            return dp[ind][amount];
+
+        int pick=INT_MAX;
+        if(amount>=coins[ind])
+            pick=1+helper(ind,coins,amount-coins[ind],dp);
         
-        return dp[ind][target]=min(pick,not_pick);
+        int notPick= helper(ind+1,coins,amount,dp);
+
+        return dp[ind][amount]=min(pick,notPick);           
+            
     }
+
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
         vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int ans= helper(n-1,amount,coins,dp);
-        return ans==1e7 ? -1:ans;
+        int ans= helper(0,coins,amount,dp);
+        
+        if(ans>=100000)
+            return -1;
+        return ans;
     }
 };
