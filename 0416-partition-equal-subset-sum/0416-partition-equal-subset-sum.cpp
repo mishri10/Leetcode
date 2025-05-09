@@ -1,23 +1,25 @@
 class Solution {
 public:
-    int part(int ind, vector<int>& nums, int target, vector<vector<int>>& dp){
+    bool part(int ind, vector<int>& nums, int target, vector<vector<int>>& dp){
 
-        if(ind==nums.size()){
-            if(target==0)
-                return 1;
+        if(target==0)
+            return 1;
+
+        if(ind==nums.size())
             return 0;
-        }
 
         if(dp[ind][target]!=-1)
             return dp[ind][target];
 
         int pick=0;
-        if(target>=nums[ind])
-            pick = part(ind+1,nums,target-nums[ind],dp);
-        int notPick = part(ind+1,nums,target,dp);
 
-        dp[ind][target] = pick or notPick;
-        return dp[ind][target];
+        if(target>=nums[ind])
+            pick= part(ind+1,nums,target-nums[ind],dp);
+
+        bool notPick= part(ind+1,nums,target,dp);
+
+        return dp[ind][target]=pick or notPick;
+
     }
 
     bool canPartition(vector<int>& nums) {
