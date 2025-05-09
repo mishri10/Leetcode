@@ -10,6 +10,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishri10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/mishri10/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mishri10/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/mishri10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mishri10/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/mishri10/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -42,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mishri10/Leetcode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/mishri10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mishri10/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mishri10/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mishri10/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -446,6 +448,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishri10/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mishri10/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/mishri10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishri10/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mishri10/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mishri10/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
