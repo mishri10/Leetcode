@@ -1,18 +1,14 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int n) {
-        vector<vector<int>>ans(n);
-
-        for(int i=0; i<n; i++){
-            ans[i].resize(i+1);
-            ans[i][0]=1;
-            ans[i][i]=1;
-            for(int j=1; j<i; j++){
-                ans[i][j]=ans[i-1][j]+ans[i-1][j-1];
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>>ans;
+        for(int row=0; row<numRows; row++){
+            vector<int>temp(row+1,1);
+            for(int col=1; col<=row-1; col++){
+                temp[col]=ans[row-1][col]+ans[row-1][col-1];
             }
+            ans.push_back(temp);
         }
-
         return ans;
-
     }
 };
