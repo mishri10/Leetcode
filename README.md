@@ -137,6 +137,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mishri10/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/mishri10/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mishri10/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mishri10/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mishri10/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mishri10/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mishri10/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/mishri10/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/mishri10/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mishri10/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mishri10/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mishri10/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/mishri10/Leetcode/tree/master/2509-minimize-xor) |
